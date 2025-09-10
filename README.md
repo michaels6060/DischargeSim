@@ -67,3 +67,7 @@ The simulation produces three main output files in the specified directory:
 1. `history.csv` - Complete conversation logs between doctor and patient
 2. `plan.jsonl` - Structured after-visit plans in AHRQ format
 3. `summary.jsonl` - Discharge summaries in clinical documentation format
+
+
+## License
+CC-BY-NC 4.0
